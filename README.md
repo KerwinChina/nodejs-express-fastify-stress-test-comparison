@@ -12,13 +12,13 @@ We measure the performance using QPS (Queries Per Second) and compare the result
 
 ### QPS Comparison test environment
 
-![test environment](environment.png) �
+![test environment](environment.png) 🚀
 ### Test Result
 
-�
+express qps result:
 ![Express QPS](express/qps_chart.png) 🚀
-
-![Fastify QPS](fastify/qps_chart.png) �
+Fastify qps result
+![Fastify QPS](fastify/qps_chart.png) 🚀
 ## Conclusion
 
 In our stress test comparison, Fastify demonstrated superior performance compared to Express. The QPS charts and test result clearly illustrate the efficiency of Fastify under stress conditions.
